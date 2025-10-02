@@ -13,18 +13,11 @@ A React-based data table application that allows users to browse and select artw
 - **URL State Management**: Page state is preserved in the URL for easy sharing and navigation
 - **TypeScript**: Full type safety across the application
 
-## 🎥 Demo Video
+##  Demo Video
 
 Watch the application in action:
 
-https://github.com/user-attachments/assets/your-video-id-here
-
-*👆 Replace with your demo video - Upload a video to GitHub issues/discussions and paste the URL here*
-
-**Or embed from YouTube:**
-```markdown
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-```
+https://github.com/user-attachments/assets/ab095bef-3e07-4406-b648-2eb5360a75aa
 
 ##  Screenshots
 
@@ -203,7 +196,7 @@ Deployed on netlify: <https://smart-data-selector.netlify.app/>
 - [PrimeReact](https://primereact.org/) for the excellent UI components
 - [React](https://react.dev/) team for the amazing framework
 
-##  Support
+Thank you for visiting ❤️
 
 For support, open an issue in the repository.
 
